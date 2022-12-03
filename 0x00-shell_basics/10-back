@@ -1,2 +1,16 @@
+<<<<<<< HEAD:10-back
 #!/bin/bash
 cd -
+=======
+<<<<<<< HEAD
+# Describing what each script is doing
+
+> The followin commands are used in bash scripting
+1. pwd - print working directory
+2. wc -l - check/print the line of script in your bash file 
+3. chmod
+4. chmod u+x - A command to make a file executable 
+=======
+My engineering class just started
+>>>>>>> 311cdb11775d25911a6ec38d9a17a8ce98893a3f
+>>>>>>> 5e9f4dce9aeebb70928fc38f2b5ea6a0410a7d91:0x00-shell_basics/README.md
