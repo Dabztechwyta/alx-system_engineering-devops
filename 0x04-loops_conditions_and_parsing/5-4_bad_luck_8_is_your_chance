@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+''' 
+    This script display "Best School" 8 times and "bad luck" the 4th iteration 
+    and "good luck" the 8th iteration using while loop
+'''
+
+a=0
+
+while (( a < 10 ))
+do
+        if (( a == 3 )); then
+                echo "bad luck"
+        elif (( a == 7 )); then
+                echo "good luck"
+        else
+                echo "Best School"
+        fi
+        (( a++ ))
+done
